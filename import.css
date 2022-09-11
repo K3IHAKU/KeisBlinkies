@@ -1,0 +1,350 @@
+.userinfo::after{
+    display: grid; 
+    justify-content: center; 
+    grid-template-columns: auto auto;
+ 
+content:
+ 
+/* blinkies */
+
+url(https://64.media.tumblr.com/6eacb79924fc28bd7caf828355fb3ecf/7009a2aa1f59e9bb-7e/s250x400/114ee1544bc39c663e7c4c5f48adec61d64428bd.gifv)
+url(https://64.media.tumblr.com/c099823ebc50625c27f33f15dfb1dde3/5469480d83a62fc3-11/s250x400/bd7f3f48ba89255ccb3abab29a5a8a0bfcb9a31f.gifv)
+ 
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3d518c74-4c43-4e74-a2ce-0fb3c0a9acde/d181478-aab683e2-a488-46b6-b9c2-b36ba802555b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNkNTE4Yzc0LTRjNDMtNGU3NC1hMmNlLTBmYjNjMGE5YWNkZVwvZDE4MTQ3OC1hYWI2ODNlMi1hNDg4LTQ2YjYtYjljMi1iMzZiYTgwMjU1NWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JKplKGz_EHPWQbX0w1IJffJ9Y5k6D0hkPI88J_AzcUA)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b4090cea-0d82-47a8-a8da-980f759995d8/dc1uufh-7ae916b5-0ee1-4627-9e23-f707f4f65b61.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I0MDkwY2VhLTBkODItNDdhOC1hOGRhLTk4MGY3NTk5OTVkOFwvZGMxdXVmaC03YWU5MTZiNS0wZWUxLTQ2MjctOWUyMy1mNzA3ZjRmNjViNjEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FOVQH7chEbu8hEFKcHe5iGl1H2q8rDhoi1qFN2G1zdI)
+
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/050c3e0c-1f5d-4f41-9c4b-a28246506d9d/dcvjz3m-9d681eb4-6039-4bf0-860f-a32b89679e3c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA1MGMzZTBjLTFmNWQtNGY0MS05YzRiLWEyODI0NjUwNmQ5ZFwvZGN2anozbS05ZDY4MWViNC02MDM5LTRiZjAtODYwZi1hMzJiODk2NzllM2MuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Gb6QlAfVD6g8LFGJHBYpvPZW7NePXT7yNU3i9uM-0F4)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/542e9975-e6a8-4c43-a772-059cbf61b788/df2dy6p-b8e247e1-c199-4eed-a6c7-e74934d3e07a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU0MmU5OTc1LWU2YTgtNGM0My1hNzcyLTA1OWNiZjYxYjc4OFwvZGYyZHk2cC1iOGUyNDdlMS1jMTk5LTRlZWQtYTZjNy1lNzQ5MzRkM2UwN2EuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kxXaeZVJSsCvzncdlM-CsTEQoDtlMXhO-eR_f9mxa8Q)
+
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dbd06e6e-b313-4acc-80d7-2f76026c8171/desyrs1-e3c80694-c184-46eb-89e0-e7c364d8764c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RiZDA2ZTZlLWIzMTMtNGFjYy04MGQ3LTJmNzYwMjZjODE3MVwvZGVzeXJzMS1lM2M4MDY5NC1jMTg0LTQ2ZWItODllMC1lN2MzNjRkODc2NGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JBcQicq4ozJmbPy93PF2R07brbh8BxHKxwNZtgK2nRs)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/050c3e0c-1f5d-4f41-9c4b-a28246506d9d/dcvjy97-4426f8e1-046d-421c-bfe2-099f72945224.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA1MGMzZTBjLTFmNWQtNGY0MS05YzRiLWEyODI0NjUwNmQ5ZFwvZGN2ank5Ny00NDI2ZjhlMS0wNDZkLTQyMWMtYmZlMi0wOTlmNzI5NDUyMjQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cvfbYkmgdJBiJXv0KQtDt_Y6Ty8TPScogfBSYVlp-T0)
+
+url(https://64.media.tumblr.com/f8cfb6962c2073727ca0ebb00c4cf121/adf72c5aebc3266a-a6/s250x400/37a78bc300bc9137e11419837a14253c6af4159e.gifv)
+url(https://64.media.tumblr.com/a923cc250c63ce8e05d28885857ce118/2bcce58f987c51f3-8e/s250x400/a705f0dae2bba0a7417862461bf59a454d47acbf.gifv)
+
+url(https://cdn.discordapp.com/attachments/816856140477759508/1006763290875138118/blinkiesCafe-NY.gif)
+url(https://64.media.tumblr.com/7cfbf60123c0598705d1865b6bdd1ec9/916f26eb977f47b6-52/s250x400/3cb8487a63d612f3e611bb4d25d330bac18af888.gifv)
+
+/* two trucks pirate */
+url(https://64.media.tumblr.com/e25bddbe9fa1cce131a629c04a42558d/adf72c5aebc3266a-21/s250x400/42e902f928501dbba6c2b73c802769a825403f40.gifv)
+url(https://64.media.tumblr.com/2b86ba42aa767b858bef8d500067ef67/2bcce58f987c51f3-25/s250x400/95c4b22b420244374c3eb64c18734c2412a1196b.gifv)
+ 
+url(https://64.media.tumblr.com/ec8cd432b59f7d67376557aba86ea7d0/adf72c5aebc3266a-db/s250x400/7c7a30016c961a31ee3c91ee64e147c9ac57b255.gifv)
+url(https://64.media.tumblr.com/43f7b20fef142321959cb82d183b8acc/adf72c5aebc3266a-26/s250x400/080f2859c3361a58792c33ae93ece2c3ada01db1.gifv)
+ 
+url(https://64.media.tumblr.com/a8d62cf83220cbda5955d79ebce8972e/33326781858a09d4-c5/s250x400/bc19d8009fd0e643e490840e225683acf61aeca0.gifv)
+url(https://64.media.tumblr.com/78a6b2a4acb8075d7ac22e48fb29f7e6/866eb692b4cef962-f3/s250x400/a651bbf91dbc8aad1feb4cf7aef8b0286c7390db.gifv)
+ 
+/* among us pride otherkin */
+url(https://64.media.tumblr.com/a1d7fc795c4c93d9b8f68a80f0cad49c/f897df2fab8942a0-55/s250x400/41dced2c836c7b1524277c5e64764091ad951cb9.gifv)
+url(https://64.media.tumblr.com/4875dbd7c1d92319290075e43aeff1bf/337dd09842dd7e6c-9c/s250x400/5db61bd873ce58bd600430e84af5feb5312fcc10.gifv) 
+ 
+/* karkilicious if u read this */
+url(https://64.media.tumblr.com/9d6c449aebe700de8d49f87d1367c700/4225e7bada29160d-19/s250x400/393869375fbe87a713b27097134758d5434db697.gifv)
+url(https://64.media.tumblr.com/19110de345bd4f30c521b9700f3b9cc5/805093766358aec1-7d/s250x400/a1154300825a2aa29da2f5353f6d0b4c60d19df4.gifv) 
+ 
+url(https://64.media.tumblr.com/4ea323cbfdbaf017dce8cf57cece96fb/cd24fd4e826b64bd-7e/s250x400/6cd270060498fc81d359ce6259374b7454d8b275.gifv)
+url(https://64.media.tumblr.com/0c92caf536c8fab4d16bfd93dd653f5d/cd24fd4e826b64bd-23/s250x400/b4805192c9aba9e7ffb19e44f2d3797910703115.gifv)
+ 
+url(https://64.media.tumblr.com/2a6fe5c862afd47641dfae92be8cbca1/33326781858a09d4-57/s250x400/b991b68d257d3ca55b7ddb060f10eed939bbd5c2.gifv)
+url(https://64.media.tumblr.com/270c0cd9c310e2f66cfc5914c53df4fc/e5909d585f821c6e-8d/s250x400/087a31ba7caf54b117fc83a2d417f92e8c2e34be.gifv)
+ 
+url(https://64.media.tumblr.com/84c45667f9d64be613bcadc079db228c/02a2fabf7d62169b-9d/s250x400/fc7ca0760c07eabe216ad06dc120cf672b406c3c.gifv)
+url(https://64.media.tumblr.com/f37ee588a082c900227fb624b361b276/85f7cc470e0a9868-cd/s250x400/936de934a48ddac49a0c4742781451dd3eefdf90.gifv)
+ 
+url(https://64.media.tumblr.com/d52ee25ebe63dd0e5c4710091201a44d/tumblr_pf5w4d8u371tckf0go1_250.gifv)
+url(https://64.media.tumblr.com/0ca4be681ac6a9eb7111c782249a9cbf/tumblr_pf5w4d8u371tckf0go2_250.gifv)
+ 
+url(https://64.media.tumblr.com/2ffb8aa21711cf2c527d1c833faafa5a/tumblr_pn2o1uTA3e1vcjknjo1_250.gifv)
+url(https://64.media.tumblr.com/e727e1e59068192f000ae6c560ac8b94/tumblr_pqy9qkqmlq1vpf6ddo4_250.gifv)
+ 
+ /* weener afternoon tea */
+url(https://cdn.discordapp.com/attachments/825102796335480843/855584425378578513/done_02_2561c186a3141019466c0ff46486e756_1.gif)
+url(https://64.media.tumblr.com/538690b07305a7ab84c5b7dcb2490bde/tumblr_p7ilxwnQxs1vs5f7yo8_250.gifv)
+ 
+ 
+/* fulltime fool mnstrfckr */
+url(https://64.media.tumblr.com/806953ff4aa32ed678fc0a82b716a45c/tumblr_puz1h4DaI81xlx2ufo9_250.gifv)
+url(https://64.media.tumblr.com/3ab41212ca3358d1769a62d104c3727c/c176d40c1c4161c5-2b/s250x400/43a7bdaabd981a42fed9df9bfb60ccb9c6b9cd5d.gifv)
+ 
+/* demon bf and cant be k */
+url(https://64.media.tumblr.com/9c6c5982801e58914d9ffad4825f7fd5/tumblr_pvvpnuJHAF1xy0eh3o3_250.gifv)
+url(https://64.media.tumblr.com/0e790384d6d0eef17b80d76c9b019d24/tumblr_pi5mkpGnrf1xlx2ufo5_250.gifv)
+ 
+/* cringe and free i love women */
+url(https://64.media.tumblr.com/7588d80dbc6e3180af89e2e8d6d5ab7c/0b1ab1662ed45859-67/s250x400/68cb57835b38dd8ed3d34be316023db62a9367f5.gifv)
+url(https://64.media.tumblr.com/6627bcadb248b4c006efa369b893d78f/0b1ab1662ed45859-08/s250x400/fece59a4f4c1952650c1bfd971592c07b5a47283.gifv)
+ 
+/* sthd mtherfcker */
+url(https://64.media.tumblr.com/2eab614c19fef6dec7411d398afd2009/ccc28c98b17509ab-41/s250x400/64a719a5140dc6ef106651d09f68c54bbb99ea95.gifv)
+url(https://64.media.tumblr.com/b7ef0e709659381b7e2112bfbc0f9a8f/7f7e84c217be5a29-18/s250x400/51e0b388be7840d593098c9a084b598f45a0737b.gifv)
+ 
+/* gay demon glow in the dark */
+url(https://64.media.tumblr.com/e4c3724dae17d0b649ac8486b1d41011/bc4012b59a669a8e-82/s250x400/7c8e241e275b45f906c77d6ac07ea91f21185370.gifv)
+url(https://64.media.tumblr.com/b9b3bb4d2eadf68f46d634cee93a48c2/b7a0b4b84149ea8b-9e/s250x400/6a6e2b963669008adf66d31c9c5de204e4f048be.gifv)
+ 
+ 
+/* stamps */
+ 
+url(https://64.media.tumblr.com/421b0bf076039b827d4b11b26ad5bb63/596e0a71577e8daf-22/s100x200/9a0876d421d6b4c8259f36f3609bbd2b5865c827.pnj)
+url(https://64.media.tumblr.com/4a686b996c12a40921fae5214df4232f/f574b1971452eaa0-19/s100x200/3924f1a44f72dfb7ed221b11c2519bf42de584b8.gifv)
+url(https://64.media.tumblr.com/1189627b30ff6533d625a3cbc6283dd4/0b16e39963535053-72/s100x200/779d0f665856491aee149b6a3743eabbc1967fe6.pnj)
+ 
+ 
+/* flowers and horns */
+url(https://64.media.tumblr.com/d330eb9e9b4033b7db214b622db6348a/tumblr_pg8kg6dWEY1xzybrpo1_100.pnj)
+url(https://64.media.tumblr.com/0dcd0a97419e7df730b0ebc6e957df00/tumblr_pr20o8ZJuD1xzybrpo4_100.pnj)
+url(https://64.media.tumblr.com/d9abc84b8257d5e07b369f93535dbe8a/tumblr_prq80qjskI1xzybrpo2_100.pnj)
+ 
+/* gold and flowers */
+url(https://64.media.tumblr.com/7706b0163ece407ebde5bbe2da794069/tumblr_prq80qjskI1xzybrpo6_250.pnj)
+url(https://64.media.tumblr.com/7ec5f5b56970cbbc79090980f074071d/tumblr_prpv6faoT61xzybrpo5_100.pnj)
+url(https://64.media.tumblr.com/7bb5c0c1f9899ad869fe8a6d38423a72/tumblr_prq80qjskI1xzybrpo5_100.pnj) 
+ 
+/* moths */
+url(https://64.media.tumblr.com/207f434fb8dcebae9e44643c1a0e9624/tumblr_pg8kynKWQM1xzybrpo6_100.pnj)
+url(https://64.media.tumblr.com/1e5bdf95cb0b4a0b413e84fa600c7b15/tumblr_pg8kynKWQM1xzybrpo5_100.pnj)
+url(https://64.media.tumblr.com/45688566ef0ea350eefd4f27d307baf2/tumblr_pg8kynKWQM1xzybrpo4_100.pnj)
+ 
+/* zelda and roses */
+url(https://64.media.tumblr.com/33a13d02d45587b65f762657d1db3f83/tumblr_pg8kg6dWEY1xzybrpo5_100.pnj)
+url(https://64.media.tumblr.com/fe59c74ec436e20862ead85134651ac7/tumblr_ptbgowgMb41xzybrpo2_100.gifv)
+url(https://64.media.tumblr.com/89679ef10fb7253a839e341e94e73c58/tumblr_pg8kg6dWEY1xzybrpo6_100.pnj) 
+ 
+/* purple galaxy one */
+url(https://64.media.tumblr.com/2faa63e3e5510120cddf68a9f384e7e6/tumblr_prglbc7vH61xzybrpo3_100.pnj)
+url(https://64.media.tumblr.com/8f58a16f358f490ee93b8ed7b9b04907/tumblr_prit763JqA1xzybrpo1_100.pnj)
+url(https://64.media.tumblr.com/6560ec36cf5257280809febebfabb8f6/tumblr_prglbc7vH61xzybrpo1_100.pnj) 
+ 
+/* purple galaxy two */
+url(https://64.media.tumblr.com/561c3ccb7d57060c6c6856e81538bd5d/tumblr_prit763JqA1xzybrpo2_100.pnj)
+url(https://64.media.tumblr.com/be68b1ce31ed67dbd098b5ed6c815613/tumblr_prglbc7vH61xzybrpo5_100.pnj)
+url(https://64.media.tumblr.com/cf8c212bb4d3d66070869d929807bd0d/tumblr_prit763JqA1xzybrpo8_100.pnj) 
+ 
+/* purple galaxy three */
+url(https://64.media.tumblr.com/c73d080a5468cce4db155b82bcc0d1b5/tumblr_prglbc7vH61xzybrpo9_100.pnj)
+url(https://64.media.tumblr.com/f2ae372b2afc082f2cd37b4d9d3c850a/tumblr_prit763JqA1xzybrpo3_100.pnj)
+url(https://64.media.tumblr.com/bb404e0f67ea5df22453fb4cd441ad1b/tumblr_prglbc7vH61xzybrpo7_100.pnj)
+ 
+/* black white touhou */
+url(https://64.media.tumblr.com/c7a8731eab772c2adcd51102304bbb53/tumblr_psood4cdAm1xzybrpo1_100.pnj)
+url(https://64.media.tumblr.com/eb8c66e1ac55e27f12c0fba73f8c85ee/tumblr_psy6b5KnzB1xzybrpo2_100.gifv)
+url(https://64.media.tumblr.com/f888c616d7c24473b22b5c2902b09e9c/tumblr_psood4cdAm1xzybrpo7_100.pnj)
+ 
+/* devilic statue pincusmic */
+url(https://64.media.tumblr.com/047f1a5c4f19d8fbc458e365e1ce3bed/8091015a7c24a1a2-2a/s100x200/c0633298c0f1e78f363dbe29d225e3fbc2eb9b73.pnj)
+url(https://64.media.tumblr.com/b574227259f4fd3a5d6060dadb11dacf/tumblr_prh23itcpR1xzybrpo3_100.pnj)
+url(https://64.media.tumblr.com/d1abaaebe9403af38d76d1a900f63731/8091015a7c24a1a2-ba/s1280x1920/ca790baf92d3e11564afe3b93738f64359d4d866.png)
+ 
+/* otherkin miku nhlnh */
+url(https://64.media.tumblr.com/d6e7a53593d750fabf20753c85819e4e/7bd41b7537cd511c-fd/s250x250_c1/620e97009702b512445f63d01afe736e0b3bbb5d.pnj)
+url(https://64.media.tumblr.com/8c6ae566766fa24e880aaa86f1304c1f/aac315f13b4865e2-21/s250x250_c1/090dddc7091829db6907697c0b05fd1e0f00ce08.pnj)
+url(https://64.media.tumblr.com/c11d827ed384509d8107b43e743cf3a2/8091015a7c24a1a2-4e/s100x200/ce4c607c67e77787bb405565abaddec1e3dfa288.pnj)
+ 
+/* vaporwave one */
+url(https://64.media.tumblr.com/b1f3a5d0b0bed56b5aba380326b0e313/tumblr_prveinahMk1xzybrpo8_100.gifv)
+url(https://64.media.tumblr.com/f4fa63f7da7ce30708b22b2f40e840f0/tumblr_prveinahMk1xzybrpo1_100.gifv)
+url(https://64.media.tumblr.com/cc7d272b0af2623bd2905d738ec79e98/tumblr_prveinahMk1xzybrpo4_100.gifv)
+ 
+/* i love rabbits */
+url(https://64.media.tumblr.com/aa9c55d4df8b2c3ac019f8b515049f49/tumblr_prh2ekGtkg1xzybrpo1_100.pnj)
+url(https://64.media.tumblr.com/697fdf73ad9b1390abbd847e13757d6e/tumblr_pz6jidNnYP1xzybrpo3_100.pnj)
+url(https://64.media.tumblr.com/ba43295c84cea32b606237caeaf506f3/tumblr_prh2ekGtkg1xzybrpo6_100.pnj)
+ 
+/* i bother people isopod */
+url(https://64.media.tumblr.com/f0cac3903c453ec9f784bacc608914d5/tumblr_prk2x6tpbY1xzybrpo1_100.pnj)
+url(https://64.media.tumblr.com/0815f063c79492e4f1fdc6f2568369b1/tumblr_pbdpevFdkz1xz2nuuo2_250.pnj)
+url(https://64.media.tumblr.com/fe2c6e3421445e0618a8978cd80cb3c8/tumblr_psl8dlxy1F1xzybrpo3_100.pnj)
+ 
+/* lopunny */
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/51ba9e59-0b0f-4b4e-b193-8e8083c7074e/d8h6op2-206cc2ac-f60c-4d19-a388-e65c628c749e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUxYmE5ZTU5LTBiMGYtNGI0ZS1iMTkzLThlODA4M2M3MDc0ZVwvZDhoNm9wMi0yMDZjYzJhYy1mNjBjLTRkMTktYTM4OC1lNjVjNjI4Yzc0OWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YLaMeRRN0YhYyRFDALq8z61K7iK2o8-rrKmxeN3V68s)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5e1d6872-cbd7-4288-b196-6756be144929/d8cymih-3ce8019e-b505-4046-b19e-0a03c031a44c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVlMWQ2ODcyLWNiZDctNDI4OC1iMTk2LTY3NTZiZTE0NDkyOVwvZDhjeW1paC0zY2U4MDE5ZS1iNTA1LTQwNDYtYjE5ZS0wYTAzYzAzMWE0NGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sGhmh6mrfya876mO8m7sk-qVgAQZxaABEGcwLAHUhXw)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/953fb208-9f26-48cc-bf2b-520b436b8973/d7e45t0-0671ed7d-1317-4b16-be1f-e9570488224b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk1M2ZiMjA4LTlmMjYtNDhjYy1iZjJiLTUyMGI0MzZiODk3M1wvZDdlNDV0MC0wNjcxZWQ3ZC0xMzE3LTRiMTYtYmUxZi1lOTU3MDQ4ODIyNGIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.W47scU9K14igvDaeBpwOluPao567YgFN4qo8auYZIXg)
+
+/* golisopod */
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/02f955d7-1d8f-474e-9a42-d5a7f58503b2/dcsjb1a-f445ca63-a591-4d9b-9e1e-cf84a7bfac08.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAyZjk1NWQ3LTFkOGYtNDc0ZS05YTQyLWQ1YTdmNTg1MDNiMlwvZGNzamIxYS1mNDQ1Y2E2My1hNTkxLTRkOWItOWUxZS1jZjg0YTdiZmFjMDgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.b-iQsREgPayAPCa4pR9lPDWyQIL2qhZUI-3_JBaeqR8)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5e1d6872-cbd7-4288-b196-6756be144929/dbttumv-6e55c580-6a17-41ae-89db-506c8ab6e413.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVlMWQ2ODcyLWNiZDctNDI4OC1iMTk2LTY3NTZiZTE0NDkyOVwvZGJ0dHVtdi02ZTU1YzU4MC02YTE3LTQxYWUtODlkYi01MDZjOGFiNmU0MTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.J1Ea9Ke5Rsa4DbcP9PvoiMZC4tyGXCvdIkSDe4-Lrz0)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d99e2841-2dbc-4561-89ab-85061b890040/dbgxahs-6b5b950f-59fe-4b1d-8bcb-b939ea29330c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q5OWUyODQxLTJkYmMtNDU2MS04OWFiLTg1MDYxYjg5MDA0MFwvZGJneGFocy02YjViOTUwZi01OWZlLTRiMWQtOGJjYi1iOTM5ZWEyOTMzMGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LaMgHYBmI300JXM9mmAtzkHjk2q1JkgClhIn8LHGSbY)
+
+/* audino */
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/27b12692-a9e1-4e51-8a9a-ed73c5320e41/da8pji5-b56106bf-9f3b-41ff-9b74-811d6b806399.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI3YjEyNjkyLWE5ZTEtNGU1MS04YTlhLWVkNzNjNTMyMGU0MVwvZGE4cGppNS1iNTYxMDZiZi05ZjNiLTQxZmYtOWI3NC04MTFkNmI4MDYzOTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OIZYxvU4st1C1PG4M1rxMQPPAhOh45jkojR8OmWtqq4)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5e1d6872-cbd7-4288-b196-6756be144929/d8o3gne-aceb6d1e-1d7a-4a99-beca-fab58c6f0c8e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVlMWQ2ODcyLWNiZDctNDI4OC1iMTk2LTY3NTZiZTE0NDkyOVwvZDhvM2duZS1hY2ViNmQxZS0xZDdhLTRhOTktYmVjYS1mYWI1OGM2ZjBjOGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YD9WRrDnc9A1MWp5-NmtkDkQoWFiAMfoOP64riLp2_g)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f5f22381-4cd8-49be-a8ef-22a31a18feff/d3cs1m2-6328f089-d7ee-42b0-99c4-05455ff76c78.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y1ZjIyMzgxLTRjZDgtNDliZS1hOGVmLTIyYTMxYTE4ZmVmZlwvZDNjczFtMi02MzI4ZjA4OS1kN2VlLTQyYjAtOTljNC0wNTQ1NWZmNzZjNzguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.d3WmSsnPaccs-kJ9uV95F-STXhE9qz62zlB1UQUReI8)
+
+/* team skull */
+url(https://64.media.tumblr.com/7b6989edf9d8d244a39f3ffbccf140a3/11f6718737e24b4c-f4/s100x200/aa0cf958f077346dc7e64a431fabf4940456839d.pnj)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2dc79e63-8979-40c8-ab51-8b3969b8eb3e/daevstv-939ca816-693c-4cb5-8d0d-58551e9431c5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJkYzc5ZTYzLTg5NzktNDBjOC1hYjUxLThiMzk2OWI4ZWIzZVwvZGFldnN0di05MzljYTgxNi02OTNjLTRjYjUtOGQwZC01ODU1MWU5NDMxYzUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hfk6CI56jmPiUK4XZE_quX6DUjk_it20eQv_o2dvpz4)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fbbb51cc-3f57-455b-97da-804c1f613c16/dapyife-34f039a6-a2ba-46b3-a833-1ad038ccba33.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZiYmI1MWNjLTNmNTctNDU1Yi05N2RhLTgwNGMxZjYxM2MxNlwvZGFweWlmZS0zNGYwMzlhNi1hMmJhLTQ2YjMtYTgzMy0xYWQwMzhjY2JhMzMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dACp79s7CyO1SBd0egvhAUPSy3bZ5tyeWJ1dm71lNjQ)
+
+
+/* jerma one */
+url(https://64.media.tumblr.com/f12539e06101f47557d0894f31a2d72d/f4073d76787e9e13-51/s250x250_c1/2cac630096302d516b6922d1b98b5a5b909a856d.pnj)
+url(https://64.media.tumblr.com/d3eeef188196e1c005b0fee98c49bbd1/f4073d76787e9e13-20/s250x250_c1/4aad31a762b66d7478c08214462509f54198f539.pnj)
+url(https://64.media.tumblr.com/c1ac3b8928b111b417103390b517014a/f4073d76787e9e13-58/s250x250_c1/af96fb5fe13ea0000c4d5c2d64a36c4cf7d9e3ca.pnj) 
+ 
+/* jerma two */
+url(https://64.media.tumblr.com/30110c7db3fdd592b52852ad5790dcb9/f4073d76787e9e13-94/s250x250_c1/fcd81cfb33136fe85b7dc05047dd2a10d2a77a61.pnj)
+url(https://64.media.tumblr.com/d431f7f7c65cdcf648777a1d249345d1/f4073d76787e9e13-b9/s250x250_c1/26f09fb7f035d6a9a0ec3f20f21aeb5f46ce0ef8.pnj)
+url(https://64.media.tumblr.com/e88f0620567026a9ccdfd5b18749b42b/f4073d76787e9e13-0c/s250x250_c1/35775b6c05f23ee0cfdd3c159e6c65805c89f096.pnj)
+ 
+/* psychic ghost grass lists */
+url(https://64.media.tumblr.com/cc31dc68942d1ce46a5ceac5e56d1087/tumblr_prvmtckP7d1xzybrpo5_100.gifv)
+url(https://64.media.tumblr.com/1516279faaad2b3e1acdfbc8bb70ab86/tumblr_prvfhkp1Jj1xzybrpo2_100.gifv)
+url(https://64.media.tumblr.com/0fb1b7d8f4545e0f36a42a3854da1bfb/tumblr_pbhh8piYBJ1xz2nuuo10_100.gifv)
+ 
+/* hearts one */
+url(https://64.media.tumblr.com/65069462cd2156affad9b118bc77a0ed/7f0976862f7272cb-f8/s250x250_c1/00c4510bce80e403f992fa1b150eab16a916eaed.pnj)
+url(https://64.media.tumblr.com/0a5baf8aa6d59bb438400fec6d452367/7f0976862f7272cb-39/s250x250_c1/62364f21f863d510f57d4766b5b9d309fec0afba.pnj)
+url(https://64.media.tumblr.com/82ea55ffe4314b178ab0cef09d2ff97e/7f0976862f7272cb-85/s250x250_c1/8abce3610b48784e83d670bd9116128872c763f9.pnj)
+ 
+/* rick roll hearts */
+url(https://64.media.tumblr.com/8bf2c9b9ef6aebb52e4d072b135e8085/7f0976862f7272cb-c2/s100x200/a6b0039304e4c7a32c4fd6eca65555751864ff1e.pnj)
+url(https://64.media.tumblr.com/00c49143dc9dc6fde6a047a17e30301e/762a7abac4831275-26/s100x200/e5e52b54eb13e6824ffff94b2881d4c093261fc5.gifv)
+url(https://64.media.tumblr.com/1675acf44e686161af78f798ff1ace93/tumblr_pbb6suXVKf1xz2nuuo4_100.pnj) 
+ 
+/* hearts two */
+url(https://64.media.tumblr.com/03f95c01c34acb70b3a397fa78e4d279/7f0976862f7272cb-52/s250x250_c1/300d64502ca1aff9b98b7c7b3f6e84644d3e6c4b.pnj)
+url(https://64.media.tumblr.com/60ae3a4bef66dc1e38e9a5e5dbe66c6f/7f0976862f7272cb-0a/s250x250_c1/fb6b76e5f6dcebc1e171a42eb26270e17d70693f.pnj)
+url(https://64.media.tumblr.com/27580a73376786e4ddc910108a876c17/7f0976862f7272cb-25/s250x250_c1/e3977c35c3bc34ffa58f7d8d668c4d9123a76534.pnj)
+ 
+/* Off stamps */
+url(https://64.media.tumblr.com/c584733a2a81462402af14e6c926e718/tumblr_pbdpwqwNC51xz2nuuo1_100.gifv)
+url(https://64.media.tumblr.com/bf841b9dc9a6362a370b0ad66541326b/tumblr_pbdpwqwNC51xz2nuuo2_100.png)
+url(https://64.media.tumblr.com/28c7252dec35cc52d29b9b0f6dbf90f4/tumblr_pbdpwqwNC51xz2nuuo3_250.png) 
+
+/* splatoon one */
+url(https://64.media.tumblr.com/3bf26bb3712e0a09f2b3bcec6ee68456/6617065664ab1b17-34/s250x250_c1/109e2d02e604fde8929595bd0162119e880610f2.pnj)
+url(https://64.media.tumblr.com/cbcf8aafa79ed3793de5b49d80c5cf4a/6617065664ab1b17-c1/s250x250_c1/29c3287e74bff62f2aaf88ea8d363919d7f4063f.gifv)
+url(https://64.media.tumblr.com/ca985ad2e647e436b7e699bbf9e2b056/6617065664ab1b17-dd/s250x250_c1/7bce57bdc775da99ba835afe6687f8d85b670602.pnj)
+ 
+/* splatoon two */
+url(https://64.media.tumblr.com/5e8c35c43b9c5ecb35026febcf5db3bc/tumblr_pbdm6iTtOP1xz2nuuo5_100.gifv)
+url(https://64.media.tumblr.com/ccbe33c59898ee05e71705e76073c1a5/tumblr_pbdm6iTtOP1xz2nuuo3_100.png)
+url(https://64.media.tumblr.com/1aa622d51caf19e9af703d2962414903/tumblr_pbdm6iTtOP1xz2nuuo4_100.gifv)
+ 
+/* splatoon three */
+url(https://64.media.tumblr.com/905a1106ec75b93977a56548116f5f60/tumblr_pbdm6iTtOP1xz2nuuo1_100.png)
+url(https://64.media.tumblr.com/68adc83214f35a14c5661f047c28544d/6617065664ab1b17-de/s250x400/c0c1075548d2c41b1d3456aea9861b7fb24801bd.gifv)
+url(https://64.media.tumblr.com/e9f200c7e6e29b3381636fa018755a3d/tumblr_pbdm6iTtOP1xz2nuuo2_100.png) 
+ 
+/* splatoon four */
+url(https://64.media.tumblr.com/79a9a4833032c7d3d885a546192bea6e/66316aaa433fc5c3-62/s100x200/2d1a5b39a6a9135500de21fafbaa0827ab21fa8f.gifv)
+url(https://64.media.tumblr.com/ead6299a3cae585ae77090c0373262ea/tumblr_py22v236QE1xbgu08o4_100.pnj)
+url(https://64.media.tumblr.com/c59b73e19b8d71d2435ceee8c4b32849/66316aaa433fc5c3-35/s100x200/0512479a6627c235eeb843b7a22df253f97b0f55.gifv)
+ 
+/* pearl and marina */
+url(https://64.media.tumblr.com/1acec61c31e05a9ac24e7e2e70d7c4b6/tumblr_ptq9nxe4T11xbgu08o1_100.gifv)
+url(https://64.media.tumblr.com/477e77611201fd2c78ffbe884c881dc0/tumblr_py22v236QE1xbgu08o3_100.pnj)
+url(https://64.media.tumblr.com/58450497379d986500f585ff921d29df/tumblr_pub5ib0hJl1xbgu08o7_100.gifv)
+ 
+/* octoling */
+url(https://64.media.tumblr.com/c9e96b2f57c296f7bf66aacf1f20d295/c6345b7ef8b6a772-39/s250x250_c1/4216d1374ca42e37d7cd43699d71136c32004d13.pnj)
+url(https://64.media.tumblr.com/d5acc2adfcfbbfce93ec9e48b590bd49/c6345b7ef8b6a772-3d/s250x400/27bd8d4e6d0d68b6eea4dcf9c6807802dbce9e3f.pnj)
+url(https://64.media.tumblr.com/f6bab8d2944db5b61174f506f35b6cb7/c6345b7ef8b6a772-0e/s250x250_c1/d67ad60f579b2d06f8fb13f0ccc6945208643fdc.pnj)
+ 
+ 
+ 
+/* nitw one */
+url(https://64.media.tumblr.com/2a6c6fa9b78a1650043944471b737434/tumblr_pbjd6ljK0v1xz2nuuo5_100.gifv)
+url(https://64.media.tumblr.com/13ce12d5c33a4a3ee61fbe28caff7075/tumblr_pbjd6ljK0v1xz2nuuo2_100.gifv)
+url(https://64.media.tumblr.com/ab2aa0e58563212501d96b8e60f8d46f/tumblr_pbjd6ljK0v1xz2nuuo9_100.gifv) 
+ 
+/* nitw two */
+url(https://64.media.tumblr.com/968c410345e60e2712e4a43cb3f46176/tumblr_pbjd6ljK0v1xz2nuuo8_100.png)
+url(https://64.media.tumblr.com/117648376abb970c0f9d2d2aa6ec8fa2/tumblr_pbjd6ljK0v1xz2nuuo1_100.jpg)
+url(https://64.media.tumblr.com/34890232b87cbee796b3920aef864bcf/tumblr_pbjd6ljK0v1xz2nuuo7_100.png)
+ 
+/* poison */
+url(https://64.media.tumblr.com/299ef653cb9a24d4833cfd1df5b4ec8f/tumblr_pg8m6fyrWw1xzybrpo1_100.pnj)
+url(https://64.media.tumblr.com/15e8c0f5e3b4cde497e20d4b9ff93e1d/tumblr_pg8m6fyrWw1xzybrpo5_100.pnj)
+url(https://64.media.tumblr.com/1a9dfe2ee4d8bfb077da1c32eb8ee2f6/tumblr_pg8m6fyrWw1xzybrpo6_100.gifv)
+ 
+ 
+/* ghost types one */
+url(https://64.media.tumblr.com/38091d494da450cbbfff8451606112bc/tumblr_pbhgdkl8Uo1xz2nuuo2_100.gif)
+url(https://64.media.tumblr.com/90e4a9e059b0eb500af27502f19545ae/tumblr_pbhgdkl8Uo1xz2nuuo6_100.png)
+url(https://64.media.tumblr.com/8376b00fa5dd213f6d8d23651fc76e6d/tumblr_pbhgdkl8Uo1xz2nuuo1_100.gif)
+ 
+/* alister */
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/101e11e9-d17d-4f76-8697-8ef134afd32f/ddbhdsa-0ad84379-0df9-46d4-a3b6-02c0ad1677ca.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwMWUxMWU5LWQxN2QtNGY3Ni04Njk3LThlZjEzNGFmZDMyZlwvZGRiaGRzYS0wYWQ4NDM3OS0wZGY5LTQ2ZDQtYTNiNi0wMmMwYWQxNjc3Y2EuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nSKLo8CkQyWNqoi8xHnr661veRsHihPbEIeDjp0C7eU)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3e293e7f-7568-4b09-9f0f-9734668b9558/ddwy8iv-d1355ed0-eb4e-4cd9-8b2b-8948b4a489dd.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNlMjkzZTdmLTc1NjgtNGIwOS05ZjBmLTk3MzQ2NjhiOTU1OFwvZGR3eThpdi1kMTM1NWVkMC1lYjRlLTRjZDktOGIyYi04OTQ4YjRhNDg5ZGQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zkFM9Q0PSWUbjDyXCM6xNojGi-SPHU8RgOTKmSNtzsU)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/101e11e9-d17d-4f76-8697-8ef134afd32f/ddbhdhy-f9724785-eef4-43fd-84fa-fbaa2bf644c4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwMWUxMWU5LWQxN2QtNGY3Ni04Njk3LThlZjEzNGFmZDMyZlwvZGRiaGRoeS1mOTcyNDc4NS1lZWY0LTQzZmQtODRmYS1mYmFhMmJmNjQ0YzQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.urdYGPT96zsOF60onxxVzmdvvmidX_Bvl4TQSGujynY)
+
+/* butterfree */
+url(https://64.media.tumblr.com/c18cd26990faa80ad30fe30b196c6ed9/013d90e85f9199ad-2e/s250x400/ee13b3645de164b50ca9a8877cdf36bb56210fd6.pnj)
+url(https://64.media.tumblr.com/0005a6c21b31f08c1007a8870599c9c5/013d90e85f9199ad-ae/s250x400/15ae4b4407313875469c4d082e3858f82d858522.pnj)
+url(https://64.media.tumblr.com/6cd63732ee8696e3ebfba86b6a1657b9/013d90e85f9199ad-e4/s250x400/67b5f00535bf1f769b98998e08a244ef7145cfb4.pnj) 
+ 
+/* radioactive ponies */
+url(https://64.media.tumblr.com/b580938c3c7a4da633c6b29cd1215006/c3e7d806e0b4635c-32/s250x250_c1/e6d5df5bda89a2e3723eb696fe8ec7aff1ecd87c.gifv)
+url(https://64.media.tumblr.com/3409d6decb6a23c02422af2746b263d3/3913a3093a909602-30/s250x250_c1/22181225767b975cd6cfe69004011447f8e33ddf.jpg)
+url(https://64.media.tumblr.com/b66fe30f5bb6376ed14585513cb96c5f/c3e7d806e0b4635c-a0/s250x250_c1/495791b26b28b2d04c5bf1e3c11fd5ea4d0f8538.pnj)
+ 
+ 
+/* FRIEND AREA */
+ 
+/* border */ 
+url(https://64.media.tumblr.com/f46f72e2a56f23beab81487d6596ecf0/f6e08806cd2ce2f6-f6/s250x400/5c7883a26c8154c7c5fa7fd4555f83efa805f0e3.gifv)
+url(https://64.media.tumblr.com/6b05281f94cba856a6957a373df56b8b/a2002ea58b86f554-f9/s250x400/08835fa64fe4f237398c1a3b97625467c4e44bd3.gifv)
+ 
+/* angels and waves SODA */
+url(https://64.media.tumblr.com/ff1e2b1be69c1c33e8a5e81c6684e5d1/tumblr_prgr20MPFi1xzybrpo1_100.pnj)
+url(https://64.media.tumblr.com/6e01aea7400952a5c0c19de683e73bc3/tumblr_prlwlae8tO1xzybrpo2_100.pnj)
+url(https://64.media.tumblr.com/4954962245b4f21b6be4fd5583366006/tumblr_prgr20MPFi1xzybrpo2_100.pnj)
+ 
+/* peach and angels SODA */
+url(https://64.media.tumblr.com/6e6f49edb01ef3557e537db9f54e1d14/016aa34823796add-79/s250x250_c1/e9253f418667211506c5b46fa26ee79a83f81da6.gifv)
+url(https://64.media.tumblr.com/990920342567c1553c904106acdbf9af/tumblr_prh23itcpR1xzybrpo6_100.pnj)
+url(https://64.media.tumblr.com/57448f540acf18ae3995d0e093117e9b/016aa34823796add-47/s250x250_c1/741176836f83ca160464c4693c28042d981e1053.gifv) 
+ 
+/*  madoka and hank SODA */
+url(https://64.media.tumblr.com/6d1f167c15dad2c06c5afeb193cd2dee/125b0ca8c4e1be52-d8/s250x250_c1/c8f2d7d7aa1176bb210b122809ca54143636848b.gifv)
+url(https://64.media.tumblr.com/773e5454457f6b7b2d4d4b63765aa0c2/89a4e72e80cb9b59-06/s250x400/a1867d49a712b49d3feb6abf0f4b4e8ac0913809.pnj)
+url(https://64.media.tumblr.com/816218646dd9c9bc91413628f396e350/b598b7fada21f160-0c/s250x400/550a091ee0933dd62535d113397c658e785dc0d6.gifv) 
+ 
+/* buncha stuff for SODA */
+url(https://64.media.tumblr.com/016045d9be2c55f01f9990f5da308e9a/cefc44427ee79f5d-61/s250x250_c1/85b0bb7b264bb356b1c10aa88be6a2f77bde68c8.pnj)
+url(https://64.media.tumblr.com/12c5cfe2a25c8a2337ed2eb00dce836b/4199ff82f467cda7-ac/s250x250_c1/012c7697c01fd4fb59e3a802913e848667579155.pnj)
+url(https://64.media.tumblr.com/57e7a7ea597080d543226af109f03edc/996b601d1995fcfa-bf/s250x250_c1/c5a41545afe61ddc85468cc7cb0f603063f56635.pnj)
+ 
+/* waves and wings SODA */
+url(https://64.media.tumblr.com/a661655a18737770d83779ad96eeb0e4/tumblr_psqswlPFKb1xzybrpo3_100.gifv)
+url(https://64.media.tumblr.com/23f10b61468d8910c56e168bd1d399d9/tumblr_prh23itcpR1xzybrpo4_100.pnj)
+url(https://64.media.tumblr.com/a5246ace4e43cc1705dca14be427a0ab/tumblr_psqswlPFKb1xzybrpo6_100.gifv)
+ 
+ 
+url(https://64.media.tumblr.com/e3bc249921c2b3a3617ed9cbcd71656c/169ca972d2c0eb35-85/s250x400/ca6c3580dff82c8f5b24a23e89097c5f7e60d431.gifv)
+url(https://64.media.tumblr.com/a57e561bc058e4eccbca82b7b3d58d28/169ca972d2c0eb35-20/s250x400/24a50ab9705dd12d84d6931947433b0391297956.gifv)
+
+/* GAB STAMPS */
+ 
+/* g4b stamps 1*/
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5d235efc-94c1-4156-9c6e-3fcf811ee510/d4qaetj-9b69c1c1-acd7-4c4b-99fb-e3fd2932207e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVkMjM1ZWZjLTk0YzEtNDE1Ni05YzZlLTNmY2Y4MTFlZTUxMFwvZDRxYWV0ai05YjY5YzFjMS1hY2Q3LTRjNGItOTlmYi1lM2ZkMjkzMjIwN2UucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ltu95vNcDE7luFNAU1W6Gkg3QlmWDzVC5vbYs_7U81s)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c89d1002-8ee8-401a-aae5-adc53a6b798b/daz5wcs-ce0ae379-0e44-43b8-b693-158b22c4b642.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4OWQxMDAyLThlZTgtNDAxYS1hYWU1LWFkYzUzYTZiNzk4YlwvZGF6NXdjcy1jZTBhZTM3OS0wZTQ0LTQzYjgtYjY5My0xNThiMjJjNGI2NDIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.K_HD2YTkb5__I_hTcGmM7HjDOtlPdWf4OA1Rj8GwG_M)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2b33ff84-c6a5-4d69-ad11-50a5c6af57dc/d3bj0uj-a841e688-c46b-47e5-beed-a7addbdf7ec0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJiMzNmZjg0LWM2YTUtNGQ2OS1hZDExLTUwYTVjNmFmNTdkY1wvZDNiajB1ai1hODQxZTY4OC1jNDZiLTQ3ZTUtYmVlZC1hN2FkZGJkZjdlYzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3Nat_dIKY4DsUhKsaOCRUJu0zWpcrbZOfAHpq91eEDE)
+ 
+/*i hate da urls they are so long :( */
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87005f74-0e6d-4172-b95c-00ee7946e867/d620dwa-0f63934c-e454-4957-8ba1-f111d3613cd8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3MDA1Zjc0LTBlNmQtNDE3Mi1iOTVjLTAwZWU3OTQ2ZTg2N1wvZDYyMGR3YS0wZjYzOTM0Yy1lNDU0LTQ5NTctOGJhMS1mMTExZDM2MTNjZDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZmW_7Ugor1e88-SrxdGF5V1YT_jX-tJ09rP2ZS8u-Ac)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/668320ee-f33b-41b2-a769-76b8b10407a7/d3lcuhn-7dcec1f4-fdfa-48de-8623-d538cf3e43e8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY2ODMyMGVlLWYzM2ItNDFiMi1hNzY5LTc2YjhiMTA0MDdhN1wvZDNsY3Vobi03ZGNlYzFmNC1mZGZhLTQ4ZGUtODYyMy1kNTM4Y2YzZTQzZTgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qlNOW2uOp7q2WTam9JvlzRjoBcz1R8CDNJ66wjmd6cU)
+url(https://media.discordapp.net/attachments/816856140477759508/985545664534573156/Tumblr_l_22483047961303.gif)
+ 
+/* idc if these duplicate */
+url(https://64.media.tumblr.com/b0ff1c967a301f48f8b94449844f43d7/tumblr_prnnx220dQ1xzybrpo4_100.pnj)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/520df525-df73-4dc7-bc14-fec613170670/d7x8w3c-657fbe63-3621-4900-933a-a1221541de24.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyMGRmNTI1LWRmNzMtNGRjNy1iYzE0LWZlYzYxMzE3MDY3MFwvZDd4OHczYy02NTdmYmU2My0zNjIxLTQ5MDAtOTMzYS1hMTIyMTU0MWRlMjQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.a-xlJtpwoWHdoElxkI4FAj_7-oTKNyyLma5UST-HbLk)
+url(https://64.media.tumblr.com/1f71766d4a8c2f053d2691597a35f082/tumblr_prnnx220dQ1xzybrpo5_100.gifv)
+ 
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8b26538a-301d-4614-8b88-8a05c3d5fccc/d3abkld-61196b1f-85af-4397-806d-6733eb87a94a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhiMjY1MzhhLTMwMWQtNDYxNC04Yjg4LThhMDVjM2Q1ZmNjY1wvZDNhYmtsZC02MTE5NmIxZi04NWFmLTQzOTctODA2ZC02NzMzZWI4N2E5NGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XIMSWpAgR67JNZE6Wk6ldyn-Ja2kewvV3OrgvJcCRJw)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6058ceb9-4902-45cc-8c50-4ab1a906041e/d8cnn1w-3cd0d0db-4895-4416-89f7-8be0e6cb5b70.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwNThjZWI5LTQ5MDItNDVjYy04YzUwLTRhYjFhOTA2MDQxZVwvZDhjbm4xdy0zY2QwZDBkYi00ODk1LTQ0MTYtODlmNy04YmUwZTZjYjViNzAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1u7zolfpWcFLt_uP3btQqKfUIJ_XBd32z5pZgd0N7j0)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f9147811-8862-482e-a9f1-86fe2ca2ef44/d3kp3dj-22ebe227-a9b6-4d68-96f4-b8c97527ab14.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y5MTQ3ODExLTg4NjItNDgyZS1hOWYxLTg2ZmUyY2EyZWY0NFwvZDNrcDNkai0yMmViZTIyNy1hOWI2LTRkNjgtOTZmNC1iOGM5NzUyN2FiMTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jKKD08f708C65lol_295pxH6dbTpECxv1WS0_mzHF3Y)
+ 
+/* gab stamps 3 */
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b21dc78f-7fee-40bb-b00d-c30fc402db65/d7x7x3s-5df5dad1-2fa3-44bf-916c-0b243cae86fa.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IyMWRjNzhmLTdmZWUtNDBiYi1iMDBkLWMzMGZjNDAyZGI2NVwvZDd4N3gzcy01ZGY1ZGFkMS0yZmEzLTQ0YmYtOTE2Yy0wYjI0M2NhZTg2ZmEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.J76evwTA5lt8CwdzFAsnuDSsD0WHNiyz_WgvDEd6Ct4)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1f049af4-9833-469a-8ee3-4bc9f66c2686/d49k4ys-d3248394-d2a4-428d-ad7c-b5e30e80d09a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFmMDQ5YWY0LTk4MzMtNDY5YS04ZWUzLTRiYzlmNjZjMjY4NlwvZDQ5azR5cy1kMzI0ODM5NC1kMmE0LTQyOGQtYWQ3Yy1iNWUzMGU4MGQwOWEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HYdI0Z3AjxHbyEr1izBwKjr50dKPA5dydYRoin9-Acg)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b21dc78f-7fee-40bb-b00d-c30fc402db65/d7x7wz6-9f8fc6be-d23c-4be4-94e0-b6bd93e44641.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IyMWRjNzhmLTdmZWUtNDBiYi1iMDBkLWMzMGZjNDAyZGI2NVwvZDd4N3d6Ni05ZjhmYzZiZS1kMjNjLTRiZTQtOTRlMC1iNmJkOTNlNDQ2NDEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2rNaZFAO_Fr4bmhL1g9ZxzKPeu9SoMN3J631Lmvgfvs)
+ 
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2882b94-24e4-4da7-87c7-add2dca4f88e/dcrdvg0-efaa27d9-5822-4ffc-9b7d-7123e45edc10.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EyODgyYjk0LTI0ZTQtNGRhNy04N2M3LWFkZDJkY2E0Zjg4ZVwvZGNyZHZnMC1lZmFhMjdkOS01ODIyLTRmZmMtOWI3ZC03MTIzZTQ1ZWRjMTAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.a8XXqPtPB_GSYZ9HmggegBqiZsRinmnup2ZzPjlxTwY)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2b33ff84-c6a5-4d69-ad11-50a5c6af57dc/d3bf6jv-a40f4bc1-c838-4701-86e0-56da7fe3611c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJiMzNmZjg0LWM2YTUtNGQ2OS1hZDExLTUwYTVjNmFmNTdkY1wvZDNiZjZqdi1hNDBmNGJjMS1jODM4LTQ3MDEtODZlMC01NmRhN2ZlMzYxMWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sz7g3RzPjgqErLH6RksFTBJ36duwgBwdo2ZyEAAMG4Y)
+url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2882b94-24e4-4da7-87c7-add2dca4f88e/dcrdui1-de878c47-15dd-4bd2-ad0f-75c88d6e3e17.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EyODgyYjk0LTI0ZTQtNGRhNy04N2M3LWFkZDJkY2E0Zjg4ZVwvZGNyZHVpMS1kZTg3OGM0Ny0xNWRkLTRiZDItYWQwZi03NWM4OGQ2ZTNlMTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.P3m9AX7yO8aKCrenxfcbFc90qMtP_KsXzoMGwjrtnAY)
+ 
+; }
+ 
